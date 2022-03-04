@@ -4,6 +4,9 @@ This project uses my own mathematical model published in the journal [Chaos](htt
 
 ![screenshot](https://github.com/Gagniuc/Spectral-Forecast-equation-VB6-app-2.0/blob/main/img/Spectral%20Forecast%20in%20VB%20(1).gif?raw=true)
 
+The Spectral Forecast equation for signals:
+![screenshot](https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v2.0/blob/main/img/spectral%20forecast%20signals.png?raw=true)
+
 ![screenshot](https://github.com/Gagniuc/Spectral-Forecast-equation-VB6-app-2.0/blob/main/img/Spectral%20Forecast%20in%20VB%20(2).gif?raw=true)
 
 # References
